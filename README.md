@@ -1,4 +1,4 @@
-# 🚀 microservices-async-demo
+# microservices-async-demo
 
 Projeto prático desenvolvido como parte da **Fase 1 - Aula 4** da pós-graduação POSTECH (DevOps e Arquitetura Cloud).
 
